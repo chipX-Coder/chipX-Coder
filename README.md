@@ -1,0 +1,4 @@
+- I’m @chipX-Coder
+-  c#
+-  c++
+-  Batch
